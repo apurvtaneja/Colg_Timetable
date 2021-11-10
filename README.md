@@ -3,7 +3,7 @@
 # CSE TIET
 ---
 ### TIMETABLE
-### Website: [aanvikshiki.me](https://aanvikshiki.me)
+### Website: [Time Table for Edge AI Elective Link](https://apurvtaneja.github.io/Colg_Timetable/)
 ---
 
 ![Website](https://img.shields.io/website?down_color=red&down_message=DOWN&up_color=green&up_message=UP&url=https%3A%2F%2Faanvikshiki.me%2F) [![GitHub issues](https://img.shields.io/github/issues/Aanvikshiki/Colg_Timetable?logo=github)](https://github.com/Aanvikshiki/Colg_Timetable/issues) ![Size](https://github-size-badge.herokuapp.com/Aanvikshiki/Colg_Timetable.svg) ![GitHub language count](https://img.shields.io/github/languages/count/Aanvikshiki/Colg_Timetable)
