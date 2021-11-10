@@ -1,14 +1,14 @@
 var data_bs = [],filter_data= [];
 data_bs = [{"Time":"8:00 - 8:50","1":"Prob & Stat Lecture LT102,CSED2","2":"COE ML Lecture LT101,CSED3/","3":"-","4":"-","5":"Prob & Stat Lecture LT102,CSED6"},
-            {"Time":"8:50 - 9:40","1":"ML Lecture LT102,CSED3","2":"Convo AI Lecture,CSED1","3":"Convo AI Lecture,CSED3","4":"-","5":"Cloud Comp Lecture LT102,CSED14"},
-            {"Time":"9:40 - 10:30","1":"Prob & Stat LAB DSA1,CSED4","2":"-","3":"COE ML Lecture LT101,CSED3/","4":"COE ML Lecture LT101,CSED4/","5":"Network Prog Lecture LT102,CSED10"},
+            {"Time":"8:50 - 9:40","1":"ML Lecture LT102,CSED3","2":"Edge AI Lecture,CSED3","3":"Edge AI Lecture,CSED8","4":"-","5":"Cloud Comp Lecture LT102,CSED14"},
+            {"Time":"9:40 - 10:30","1":"Prob & Stat LAB DSA1,CSED4","2":"Edge AI Lab,CSED19","3":"COE ML Lecture LT101,CSED3/","4":"COE ML Lecture LT101,CSED4/","5":"Network Prog Lecture LT102,CSED10"},
             {"Time":"10:30 - 11:20","1":"","2":"-","3":"-","4":"-","5":"ML LAB GC1,CSED3/"},
             {"Time":"11:20 - 12:10","1":"-","2":"Network Prog LAB NS2,CSED11","3":"-","4":"-","5":""},
             {"Time":"12:10 - 1:00","1":"-","2":"","3":"-","4":"-","5":"-"},
             {"Time":"1:00 - 1:50","1":"Cloud Comp LAB DBMS2,","2":"-","3":"-","4":"Convo AI LAB,CSED4","5":"-"},
             {"Time":"1:50 - 2:40","1":"","2":"-","3":"-","4":"","5":"-"},
-            {"Time":"2:40 - 3:30","1":"-","2":"-","3":"-","4":"Network Prog Lecture LT102,CSED7","5":"-"},
-            {"Time":"3:30 - 4:20","1":"-","2":"-","3":"-","4":"ML Lecture LT102,","5":"-"},
+            {"Time":"2:40 - 3:30","1":"Edge AI Lab UCS544,CSED17","2":"-","3":"-","4":"Network Prog Lecture LT102,CSED7","5":"-"},
+            {"Time":"3:30 - 4:20","1":"-","2":"-","3":"Edge AI Lab UCS544,CSED14","4":"ML Lecture LT102,","5":"-"},
             {"Time":"4:20 - 5:10","1":"-","2":"-","3":"Prob & Stat Lecture LT101,CSED1","4":"Cloud Comp Lecture LT102,CSED8","5":"-"},
             {"Time":"5:10 - 6:00","1":"-","2":"-","3":"ML Lecture LT101,","4":"-","5":"-"}]
 
