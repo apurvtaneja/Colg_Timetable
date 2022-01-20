@@ -1,6 +1,6 @@
 var data_bs = [],filter_data= [];
 data_bs = [{"Time":"8:00 - 8:50","1":"Computer Graphics SS2 LAB,CSED17\/  ","2":"Edge AI and Robotics: Embedded Vision - UCS665,CSED11\/","3":"Edge AI and Robotics: Embedded Vision - UCS665,CSED11\/","4":"EDS,95554290850?pwd=NDVmWkxTSUdNc2FaYVc0cXR3elNFdz09\/","5":"-"},
-{"Time":"8:50 - 9:40","1":"UCS665 lab (COE),CSED22\/","2":"DS Convo AI LT402 Lecture,CSED10\/","3":"DS Convo AI LT402 Lecture,CSED13\/","4":"Theory of Computation LT402 Lecture,CSED8\/","5":"-"},
+{"Time":"8:50 - 9:40","1":"UCS665 lab (COE),CSED22\/","2":"-","3":"-","4":"Theory of Computation LT402 Lecture,CSED8\/","5":"-"},
 {"Time":"9:40 - 10:30","1":"-","2":"Theory of Computation LT401 Lecture,CSED14\/","3":"Quantum Computing GC2 LAB,CSED16\/","4":"Computer Graphics LT402 Lecture,CSED10\/","5":"-"},
 {"Time":"10:30 - 11:20","1":"-","2":"Computer Graphics LT401 Lecture,CSED14\/","3":"","4":"Edge AI and Robotics: Embedded Vision - UCS665 Lab(COE),CSED26\/","5":"-"},
 {"Time":"11:20 - 12:10","1":"Theory of Computation LT402 Lecture,CSED12\/","2":"Theory of Computation TUT,CSED11\/","3":"Edge AI and Robotics: Embedded Vision - UCS665 Lab(CSE),CSED23\/","4":"-","5":"-"},
