@@ -2,7 +2,7 @@ var data_bs = [],filter_data= [];
 data_bs = [{"Time":"8:00 - 8:50","1":"Computer Graphics Practical SS2 ,my\/CSED17\/  ","2":"UCS665,my\/CSED11\/","3":"UCS665,my\/CSED11\/","4":"EDS,j\/95554290850?pwd=NDVmWkxTSUdNc2FaYVc0cXR3elNFdz09\/","5":"-"},
 {"Time":"8:50 - 9:40","1":"UCS665 lab (COE),my\/CSED22\/","2":"-","3":"-","4":"Theory of Computation LT402 Lecture,my\/CSED8\/","5":"-"},
 {"Time":"9:40 - 10:30","1":"-","2":"Theory of Computation LT401 Lecture,my\/CSED14\/","3":"Quantum Computing GC2 LAB,my\/CSED16\/","4":"Computer Graphics LT402 Lecture,my\/CSED10\/","5":"-"},
-{"Time":"10:30 - 11:20","1":"-","2":"Computer Graphics LT401 Lecture,my\/CSED14\/","3":"-","4":"UCS666 Lab(COE),my\/CSED26\/","5":"-"},
+{"Time":"10:30 - 11:20","1":"-","2":"Computer Graphics LT401 Lecture,my\/CSED14\/","3":"","4":"UCS666 Lab(COE),my\/CSED26\/","5":"-"},
 {"Time":"11:20 - 12:10","1":"Theory of Computation LT402 Lecture,my\/CSED12\/","2":"Theory of Computation TUT,my\/CSED11\/","3":"UCS666 Lab(CSE),my\/CSED23\/","4":"-","5":"-"},
 {"Time":"12:10 - 1:00","1":"EDS,j\/95554290850?pwd=NDVmWkxTSUdNc2FaYVc0cXR3elNFdz09\/","2":"-","3":"-","4":"Quantum Computing LT402 Lecture,my\/CSED5\/","5":"-"},
 {"Time":"1:00 - 1:50","1":"-","2":"UCS666,my\/CSED12","3":"-","4":"EDS,j\/95554290850?pwd=NDVmWkxTSUdNc2FaYVc0cXR3elNFdz09\/","5":"-"},
