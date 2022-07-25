@@ -1,16 +1,16 @@
 var data_bs = [],filter_data= [];
-data_bs = [{"Time":"8:00 - 8:50","1":"Computer Graphics Practical SS2 ,my\/CSED17\/  ","2":"UCS665,my\/CSED11\/","3":"UCS665,my\/CSED11\/","4":"EDS,j\/95554290850?pwd=NDVmWkxTSUdNc2FaYVc0cXR3elNFdz09\/","5":"-"},
-{"Time":"8:50 - 9:40","1":"UCS665 lab (COE),my\/CSED22\/","2":"-","3":"-","4":"Theory of Computation LT402 Lecture,my\/CSED8\/","5":"-"},
-{"Time":"9:40 - 10:30","1":"-","2":"Theory of Computation LT401 Lecture,my\/CSED14\/","3":"Quantum Computing GC2 LAB,my\/CSED16\/","4":"Computer Graphics LT402 Lecture,my\/CSED10\/","5":"-"},
-{"Time":"10:30 - 11:20","1":"-","2":"Computer Graphics LT401 Lecture,my\/CSED14\/","3":"","4":"UCS666 Lab(COE),my\/CSED26\/","5":"-"},
-{"Time":"11:20 - 12:10","1":"Theory of Computation LT402 Lecture,my\/CSED12\/","2":"Theory of Computation TUT,my\/CSED11\/","3":"UCS666 Lab(CSE),my\/CSED23\/","4":"-","5":"-"},
-{"Time":"12:10 - 1:00","1":"EDS,j\/95554290850?pwd=NDVmWkxTSUdNc2FaYVc0cXR3elNFdz09\/","2":"-","3":"-","4":"Quantum Computing LT402 Lecture,my\/CSED5\/","5":"-"},
-{"Time":"1:00 - 1:50","1":"-","2":"UCS666,my\/CSED12","3":"-","4":"EDS,j\/95554290850?pwd=NDVmWkxTSUdNc2FaYVc0cXR3elNFdz09\/","5":"-"},
-{"Time":"1:50 - 2:40","1":"Computer Graphics LT401 Lecture,my\/CSED14\/","2":"-","3":"-","4":"-","5":"UCS665 lab (CSE),my\/CSED22\/"},
-{"Time":"2:40 - 3:30","1":"Quantum Computing LT401 Lecture,my\/CSED14\/","2":"-","3":"-","4":"-","5":"-"},
-{"Time":"3:30 - 4:20","1":"-","2":"-","3":"-","4":"-","5":"-"},
-{"Time":"4:20 - 5:10","1":"-","2":"-","3":"-","4":"-","5":"Quantum Computing LT402 Lecture,my\/CSED11\/"},
-{"Time":"5:10 - 6:00","1":"UCS666,my\/CSED14\/","2":"-","3":"-","4":"-","5":"-"}]
+data_bs = [{"Time":"8:00 - 8:50","1":"-","2":"-","3":"ELECTIVE LAB","4":"-","5":"-"},
+{"Time":"8:50 - 9:40","1":"HUMANITIES FOR ENGINEERS - UHU005 L - LT401,","2":"HUMANITIES FOR ENGINEERS - UHU005 P - LC2 LAB","3":"","4":"-","5":"-"},
+{"Time":"9:40 - 10:30","1":"COGNITIVE COMPUTING - UCS712 L - LT401,","2":"","3":"","4":"","5":"-"},
+{"Time":"10:30 - 11:20","1":"COMPILER CONSTRUCTION - UCS802 - LT401","2":"-","3":"-","4":"-","5":"-"},
+{"Time":"11:20 - 12:10","1":"COMPILER CONSTRUCTION - UCS802 P - CG-2	LAB","2":"COMPILER CONSTRUCTION - UCS802 - LT401","3":"-","4":"-","5":"-"},
+{"Time":"12:10 - 1:00","1":"","2":"COGNITIVE COMPUTING - UCS712 L - LT401","3":"Elective","4":"-","5":"-"},
+{"Time":"1:00 - 1:50","1":"-","2":"-","3":"UCS-EL7-9 L - LP108","4":"-","5":"ELECTIVE LAB"},
+{"Time":"1:50 - 2:40","1":"-","2":"-","3":"-","4":"COMPILER CONSTRUCTION - UCS802 - LT401","5":""},
+{"Time":"2:40 - 3:30","1":"-","2":"-","3":"-","4":"HUMANITIES FOR ENGINEERS - UHU005 L - LT401","5":"-"},
+{"Time":"3:30 - 4:20","1":"UCS757P - IS2 LAB","2":"-","3":"-","4":"-","5":"-"},
+{"Time":"4:20 - 5:10","1":"","2":"-","3":"-","4":"-","5":"ELECTIVE LAB"},
+{"Time":"5:10 - 6:00","1":"-","2":"-","3":"-","4":"-"," 5":""}]
 
 /*$.ajax({
   url: 'https://sheetdb.io/api/v1/6tlzso8euumt3',
