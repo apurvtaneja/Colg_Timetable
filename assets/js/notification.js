@@ -40,10 +40,15 @@ function drawRow(data) {
         row.append($("<td id='colr' scope='row'>" + "-" + "</td>")); 
       else if(dat.length > 2){
         var dk = dat.split(",");
-        if(dk[0].search("LAB") == -1){
-        row.append($("<td class='table-warning'>")); }
+        if(dk[0].search("LAB") == -1 && dk[0].search("TUT") == -1){
+        row.append($("<td id='colr1' class='table-warning'>" + "<a href="+base+dk[1]+ 
+        " target='_blank'><b>"+dk[0]+"</b></a></td>")); }
+        else if(dk[0].search("LAB") == -1 ){
+          row.append($("<td id='colr1' class='table-success' rowspan='1'style='vertical-align:middle'>" +
+           "<a href="+base+dk[1]+" target='_blank'><b>"+dk[0]+"</b></a></td>"));}
         else{
-        row.append($("<td class='table-success' rowspan='2'style='vertical-align:middle'>"));}
+        row.append($("<td id='colr1' class='table-success' rowspan='2'style='vertical-align:middle'>" +
+         "<a href="+base+dk[1]+" target='_blank'><b>"+dk[0]+"</b></a></td>"));}
       }
     }
   }
