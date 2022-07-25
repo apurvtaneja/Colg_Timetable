@@ -24,7 +24,7 @@ data_bs = [{"Time":"8:00 - 8:50","1":"-","2":"-","3":"ELECTIVE LAB","4":"-","5":
     check();
   }
 });
-
+*/
 var base = "https://tiet.zoom.us/"
 drawRow(data_bs);
 check();
@@ -41,16 +41,14 @@ function drawRow(data) {
       else if(dat.length > 2){
         var dk = dat.split(",");
         if(dk[0].search("LAB") == -1){
-        row.append($("<td class='table-warning'>" + "<a href="+base+dk[1]+ 
-        " target='_blank'><b>"+dk[0]+"</b></a></td>")); }
+        row.append($("<td class='table-warning'>")); }
         else{
-        row.append($("<td class='table-success' rowspan='2'style='vertical-align:middle'>" +
-         "<a href="+base+dk[1]+" target='_blank'><b>"+dk[0]+"</b></a></td>"));}
+        row.append($("<td class='table-success' rowspan='2'style='vertical-align:middle'>"));}
       }
     }
   }
 }
-*/
+
 Notification.requestPermission().then(function(result) {});  
 function fitdata(day){
   for(var i = 0; i < data_bs.length; i++){
