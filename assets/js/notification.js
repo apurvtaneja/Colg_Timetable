@@ -41,11 +41,11 @@ function drawRow(data) {
       else if(dat.length > 2){
         var dk = dat.split(",");
         if(dk[0].search("LAB") == -1 && dk[0].search("TUT") == -1){
-        row.append($("<td id='colr1' class='table-warning'>" + "<b>"+dk[0]+"</b></a></td>")); }
+        row.append($("<td id='colr1' class='table-warning' style='vertical-align: middle; color:orange;'>" + "<b>"+dk[0]+"</b></a></td>")); }
         else if(dk[0].search("LAB") == -1 ){
-          row.append($("<td id='colr1' class='table-success' rowspan='1'style='vertical-align:middle; color:green;'>" + "<b>"+dk[0]+"</b></a></td>"));}
+          row.append($("<td id='colr1' class='table-success' rowspan='1'style='vertical-align:middle; color:orange;'>" + "<b>"+dk[0]+"</b></a></td>"));}
         else{
-        row.append($("<td id='colr1' class='table-success' rowspan='2'style='vertical-align:middle; color:orange;'>" + "<b>"+dk[0]+"</b></a></td>"));}
+        row.append($("<td id='colr1' class='table-success' rowspan='2'style='vertical-align:middle; color:green;'>" + "<b>"+dk[0]+"</b></a></td>"));}
       }
     }
   }
