@@ -1,16 +1,16 @@
 var data_bs = [],filter_data= [];
-data_bs = [{"Time":"8:00 - 8:50","1":"-","2":"-","3":"ELECTIVE LAB","4":"-","5":"-"},
-{"Time":"8:50 - 9:40","1":"HUMANITIES FOR ENGINEERS - UHU005 L - LT401","2":"HUMANITIES FOR ENGINEERS - UHU005 P - LC2 LAB","3":"","4":"-","5":"-"},
+data_bs = [{"Time":"8:00 - 8:50","1":"-","2":"-","3":"UCS747 - SE2 LAB","4":"-","5":"-"},
+{"Time":"8:50 - 9:40","1":"HUMANITIES FOR ENGINEERS - UHU005 L - LT401","2":"HUMANITIES FOR ENGINEERS - UHU005 P - T203 - LC2 LAB","3":"","4":"-","5":"-"},
 {"Time":"9:40 - 10:30","1":"COGNITIVE COMPUTING - UCS712 L - LT401","2":"","3":"-","4":"-","5":"-"},
 {"Time":"10:30 - 11:20","1":"COMPILER CONSTRUCTION - UCS802 - LT401","2":"-","3":"-","4":"-","5":"-"},
 {"Time":"11:20 - 12:10","1":"COMPILER CONSTRUCTION - UCS802 P - CG-2	LAB","2":"COMPILER CONSTRUCTION - UCS802 - LT401","3":"-","4":"-","5":"-"},
 {"Time":"12:10 - 1:00","1":"","2":"COGNITIVE COMPUTING - UCS712 L - LT401","3":"Elective","4":"-","5":"-"},
-{"Time":"1:00 - 1:50","1":"-","2":"-","3":"UCS-EL7-9 L - LP108","4":"-","5":"ELECTIVE LAB"},
-{"Time":"1:50 - 2:40","1":"-","2":"-","3":"-","4":"COMPILER CONSTRUCTION - UCS802 - LT401","5":""},
+{"Time":"1:00 - 1:50","1":"-","2":"-","3":"UCS747 L - LP108","4":"UCS747 L - LP108","5":"-"},
+{"Time":"1:50 - 2:40","1":"-","2":"-","3":"-","4":"COMPILER CONSTRUCTION - UCS802 - LT401","5":"-"},
 {"Time":"2:40 - 3:30","1":"-","2":"-","3":"-","4":"HUMANITIES FOR ENGINEERS - UHU005 L - LT401","5":"-"},
-{"Time":"3:30 - 4:20","1":"UCS757P - IS2 LAB","2":"-","3":"-","4":"-","5":"-"},
-{"Time":"4:20 - 5:10","1":"","2":"-","3":"-","4":"-","5":"ELECTIVE LAB"},
-{"Time":"5:10 - 6:00","1":"-","2":"-","3":"-","4":"-"," 5":""}]
+{"Time":"3:30 - 4:20","1":"-","2":"-","3":"-","4":"-","5":"-"},
+{"Time":"4:20 - 5:10","1":"-","2":"-","3":"-","4":"-","5":"-"},
+{"Time":"5:10 - 6:00","1":"-","2":"-","3":"-","4":"-"," 5":"-"}]
 
 /*$.ajax({
   url: 'https://sheetdb.io/api/v1/6tlzso8euumt3',
